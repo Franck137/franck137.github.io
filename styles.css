@@ -1,0 +1,27 @@
+
+ body {font-family: gotham, arial, helvetica, sans-serif;
+    font-size: 15px;
+   position: relative; left: 10px;
+    padding: 1;
+  margin: 0 auto;}
+  #a{background-color:rgb(80,122,276); position: relative; height: 12em}
+  #b{color: white; font-size: 1.1em; position: relative; left: 0.4em; top: 6.5em;}
+  #c{position: relative; left: 3em; margin: -0.3em; top: -1em}
+  #d{position: relative; left: 0.6em; color: white; font-size: 0.8em;top: 1em}
+  #e{position: relative; left: 20px; font-size: 1.5em}
+  #h{font-size: 20px;}
+#f{postion: relative;}
+
+@media (max-width: 200px)
+{
+  .facet_sidebar
+   {
+    display: none;
+   }
+  @media screen and (min-aspect-ratio: 1/1) { ... }
+  
+  .alpha {position: relative; right: 17em;}
+.beta {font-size: 1em; position: relative;}
+#texto2 {font-size: 1.5em}
+#tab1 {font-size: 1.3em;}
+  
